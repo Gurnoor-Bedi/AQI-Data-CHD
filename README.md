@@ -1,8 +1,4 @@
-# AQI-Data-CHD
 
-Here's an example of a README file for your Python data analysis script that uses `numpy`, `pandas`, `matplotlib`, `seaborn`, and `plotly` libraries to analyze air quality index (AQI) data. The README is in Markdown format.
-
----
 
 # Air Quality Index Data Analysis
 
